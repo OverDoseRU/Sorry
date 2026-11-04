@@ -1,4 +1,4 @@
-const SECRET = "6769";
+const SECRET = "6769"; /*ып*/
 
 const LETTER = {
     title: "Прошу прощения за свои грехи!",
